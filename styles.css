@@ -1,0 +1,13 @@
+.content img {
+    margin-left: 1.2em;
+    width: 4em;
+}
+
+.content {
+    width: 45em;
+    height: auto;
+    margin: 0 auto;
+    padding: 2em;
+    position: relative;
+    justify-content: center;
+}
